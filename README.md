@@ -1,3 +1,3 @@
 # hello-world
 
-My name is Amelia Rouse. I'm learning python and using it to complete my data analysis for my PhD.
+My name is Amelia Rouse. This is a repository of Data Analysis and Data science projects I am currently on at Walkers Reserve.
